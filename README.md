@@ -76,7 +76,7 @@ crypto-prediction-dashboard/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourname/crypto-prediction-dashboard.git
+git clone https://github.com/Waize333/Crypto-Update-Agent
 cd crypto-prediction-dashboard
 npm install
 ```
