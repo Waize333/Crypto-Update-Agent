@@ -52,6 +52,10 @@ sequenceDiagram
 
 ---
 
+## N8N WorkFlow
+
+![1752433237341](images/README/1752433237341.png)
+
 ## 📦 Folder Structure
 
 ```
