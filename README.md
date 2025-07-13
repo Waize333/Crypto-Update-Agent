@@ -165,7 +165,7 @@ curl -X POST https://your-deployed-site.com/api/trigger-n8n
 
 ## 📬 Contact
 
-Built by **@automationist** 🚀
+Built by **@waizqazi** 🚀
 Reach out if you need help deploying this, extending AI workflows, or productizing prediction logic.
 
 ---
